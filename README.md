@@ -5,7 +5,7 @@ To run this model you need:
 
 1-A dataset with the features extracted by some other network (In this case VGG16) and save as .npy.
 
-2-Run "create_name_list.py" with the directories of train, test and validation, to create a list with all the name of the features files, and it respective labels.
+2-Run "create_name_list.py" with the directories of train, test and, validation, to create a list with all the names of the features files, and its respective labels.
 
 3-Run "create_pickle_npy.py" to create batches of pickles to feed the Capsnet.
 
