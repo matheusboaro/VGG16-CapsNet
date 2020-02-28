@@ -13,4 +13,4 @@ To run this model you need:
   
 4-Run "capsulenet.py"
 
-obs: The "ft" file do the extraction, u just need to load it with your onw keras model
+obs: The "ft.py" file do the extraction, u just need to load it with your onw keras model
