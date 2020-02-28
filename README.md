@@ -6,3 +6,5 @@ To run this model you need:
 3-Run "create_pickle_npy.py" to create batches of pickles to feed the Capsnet.
   obs: You need to save as testX.npy...trainX.npy...validX.npy...
 4-Run "capsulenet.py"
+
+obs: The "ft" file do the extraction, u just need to load it with your onw keras model
